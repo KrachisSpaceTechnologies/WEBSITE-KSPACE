@@ -18,10 +18,10 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
             <ul className="space-y-2">
-              <li><a href="#home" className="text-gray-400 hover:text-white">Home</a></li>
-              <li><a href="#services" className="text-gray-400 hover:text-white">Services</a></li>
+              <li><a href="About.tsx" className="text-gray-400 hover:text-white">Home</a></li>
+              <li><a href="Services.tsx" className="text-gray-400 hover:text-white">Services</a></li>
               <li><a href="#about" className="text-gray-400 hover:text-white">About</a></li>
-              <li><a href="#contact" className="text-gray-400 hover:text-white">Contact</a></li>
+              <li><a href="contact.tsx" className="text-gray-400 hover:text-white">Contact</a></li>
             </ul>
           </div>
           

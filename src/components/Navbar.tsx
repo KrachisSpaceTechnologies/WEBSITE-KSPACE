@@ -7,7 +7,8 @@ export default function Navbar() {
 
   const navigation = [
     { name: 'Products', href: '/products' },
-    { name: 'Solutions', href: '/solutions' },
+    { name: 'Solutions', href: '/solutions'
+    },
     { name: 'Innovation', href: '/innovation' },
     { name: 'Careers', href: '/careers' },
    
